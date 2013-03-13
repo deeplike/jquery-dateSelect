@@ -5,4 +5,4 @@ jquery-dateSelect
 
 =================
 
-a jQuery plugin to generate select options
+a jQuery plugin to generate days in select options
